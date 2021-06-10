@@ -1,5 +1,5 @@
 # C64-WiFi-Modem-Adapter for the Commodore PET/CBM computers
-This is an adapter for connecting a <a href="https://github.com/svenpetersen1965/C64-WiFi-Modem-User-Port">WiFi-Modem</a> to the PET/CBM User Port.
+This is an adapter for connecting a <a href="https://github.com/svenpetersen1965/C64-WiFi-Modem-User-Port">C64 WiFi-Modem</a> to the PET/CBM User Port.
 
 <img src="https://github.com/svenpetersen1965/C64-WiFi-Modem-Adapter-for-PET-CBM/blob/main/Rev.%200/Pictures/8436_Setup.JPG" width="300" alt="WiFi-modem on CBM8032">
 
